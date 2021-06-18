@@ -1,3 +1,3 @@
 # Vulnerable Web App
-Written by Michael Braun
+Written by Mike Braun
 
